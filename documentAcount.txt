@@ -1,0 +1,9 @@
+MongoDB :
+--username :phamquocviet2721999
+--password :fO0teKqSyI4bCMTfns6zqo3Jb3QZcQIe
+
+AWS 
+Description tag value :serverless-des
+
+AWS_ACCESS_KEY_ID:AKIAQWFXFXHRIVNV44FV
+AWS_SECRET_ACCESS_KEY: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
